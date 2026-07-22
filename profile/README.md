@@ -8,12 +8,16 @@ Our work spans stream processing, dynamic graph systems, vector search and index
 
 - [IntelliStream](https://github.com/intellistream) incubates early research ideas.
 - **DataSys** develops framework-neutral data systems and benchmarks.
-- **SAGE** uses these capabilities in Agent, RAG, and service workflows.
+- [SAGE](https://github.com/SAGE-Research) uses these capabilities in agent, RAG, workflow, and service orchestration.
 - [vLLM-HUST](https://github.com/vllm-hust) develops model execution, scheduling, and hardware acceleration.
 
 ## Projects
 
-Project links will be grouped here after each repository transfer is verified.
+### Stream Processing
+
+- [MorphStream](https://github.com/DataSysResearch/MorphStream) - transactional stream-processing engine for ACID transactions over streaming data.
+
+Dynamic graph, vector/ANNS, and benchmark projects will be added after each repository transfer is verified.
 
 ## Project Graduation
 
