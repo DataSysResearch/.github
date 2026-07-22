@@ -17,10 +17,22 @@ Our work spans stream processing, dynamic graph systems, vector search and index
 
 - [MorphStream](https://github.com/DataSysResearch/MorphStream) - transactional stream-processing engine for ACID transactions over streaming data.
 
-Dynamic graph, vector/ANNS, and benchmark projects will be added after each repository transfer is verified.
+### Dynamic Graphs
+
+- [GRACE](https://github.com/DataSysResearch/GRACE) - dynamic graph processing for continuously evolving graph data.
+
+### Vector Search and ANNS
+
+- [CANDOR-Bench](https://github.com/DataSysResearch/CANDOR-Bench) - continuous ANNS evaluation under dynamic, open-world streams.
+
+### Streaming Data Analysis
+
+- [Sesame](https://github.com/DataSysResearch/Sesame) - data-stream clustering system and benchmark.
 
 ## Project Graduation
 
 Projects graduate from IntelliStream when they have a clear public abstraction, named maintainers, reproducible evaluation, documentation, tests, licensing, and a sustainable release path.
 
 DataSys is not a catch-all state-management umbrella. It owns framework-neutral data systems, indexes, benchmarks, and data lifecycle infrastructure.
+
+See our [contribution guide](https://github.com/DataSysResearch/.github/blob/main/CONTRIBUTING.md), [security policy](https://github.com/DataSysResearch/.github/blob/main/SECURITY.md), and [support guide](https://github.com/DataSysResearch/.github/blob/main/SUPPORT.md).
