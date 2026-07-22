@@ -29,6 +29,23 @@ Our work spans stream processing, dynamic graph systems, vector search and index
 
 - [Sesame](https://github.com/DataSysResearch/Sesame) - data-stream clustering system and benchmark.
 
+### Supporting Systems
+
+- [AllianceDB](https://github.com/DataSysResearch/AllianceDB)
+- [CStream](https://github.com/DataSysResearch/CStream)
+- [PECJ](https://github.com/DataSysResearch/PECJ)
+- [PDSC](https://github.com/DataSysResearch/PDSC)
+- [SentiStream](https://github.com/DataSysResearch/SentiStream)
+- [StreamFP](https://github.com/DataSysResearch/StreamFP)
+- [SRTFD](https://github.com/DataSysResearch/SRTFD)
+
+### Benchmarks and Research Resources
+
+- [CFInjectBench](https://github.com/DataSysResearch/CFInjectBench)
+- [CC-bench-tools](https://github.com/DataSysResearch/CC-bench-tools)
+- [StreamProcessing Reading List](https://github.com/DataSysResearch/StreamProcessing_ReadingList)
+- [Parallel and Distributed State Management Survey](https://github.com/DataSysResearch/parallel-distributed-state-management-survey)
+
 ## Project Graduation
 
 Projects graduate from IntelliStream when they have a clear public abstraction, named maintainers, reproducible evaluation, documentation, tests, licensing, and a sustainable release path.
