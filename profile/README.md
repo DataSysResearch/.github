@@ -54,6 +54,17 @@ Website: [datasys.sage.org.ai](https://datasys.sage.org.ai/)
 - [StreamProcessing Reading List](https://github.com/DataSysResearch/StreamProcessing_ReadingList)
 - [Parallel and Distributed State Management Survey](https://github.com/DataSysResearch/parallel-distributed-state-management-survey)
 
+### ANNS Baseline Forks
+
+These repositories preserve upstream algorithms and benchmark baselines used in DataSys evaluation. DataSys ownership does not replace or imply authorship of the upstream projects.
+
+- [Parlay-HNSW](https://github.com/DataSysResearch/Parlay-HNSW) - ParlayANN-derived HNSW concurrency baseline.
+- [Concurrent-HNSW](https://github.com/DataSysResearch/Concurrent-HNSW) - concurrent HNSW evaluation baseline in the hnswlib fork network.
+- [hnswlib](https://github.com/DataSysResearch/hnswlib) - pinned hnswlib baseline snapshot.
+- [cufe](https://github.com/DataSysResearch/cufe) - DiskANN-network research fork used by CANDOR-Bench.
+- [IP-DiskANN](https://github.com/DataSysResearch/IP-DiskANN) - pinned CANDOR-Bench IP-DiskANN baseline.
+- [big-ann-benchmarks](https://github.com/DataSysResearch/big-ann-benchmarks) - billion-scale ANNS benchmark fork.
+
 ## Project Graduation
 
 Projects graduate from IntelliStream when they have a clear public abstraction, named maintainers, reproducible evaluation, documentation, tests, licensing, and a sustainable release path.
