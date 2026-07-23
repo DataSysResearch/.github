@@ -18,6 +18,11 @@ Website: [datasys.sage.org.ai](https://datasys.sage.org.ai/)
 ### Stream Processing
 
 - [MorphStream](https://github.com/DataSysResearch/MorphStream) - transactional stream-processing engine for ACID transactions over streaming data.
+- [BriskFlow](https://github.com/DataSysResearch/BriskFlow) - vector-native stream processing engine for join-backed semantic windows and continuously evolving data.
+
+### Achievements
+
+- [BriskSnapshot](https://datasys.sage.org.ai/achievements.html) - accepted ICPP 2026 demonstration of join-backed semantic windows for streaming AI pipelines.
 
 ### Dynamic Graphs
 
