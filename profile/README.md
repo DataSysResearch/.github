@@ -31,6 +31,11 @@ Website: [datasys.sage.org.ai](https://datasys.sage.org.ai/)
 
 - [Sesame](https://github.com/DataSysResearch/Sesame) - data-stream clustering system and benchmark.
 
+### Approximate Computing
+
+- [AMM-Algorithms](https://github.com/DataSysResearch/AMM-Algorithms) - framework-neutral C++ implementations of approximate matrix multiplication algorithms with Python bindings.
+- [LibAMM](https://github.com/DataSysResearch/LibAMM) - reproducible benchmark suite for approximate matrix multiplication systems.
+
 ### Supporting Systems
 
 - [AllianceDB](https://github.com/DataSysResearch/AllianceDB)
