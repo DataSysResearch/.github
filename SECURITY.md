@@ -2,7 +2,10 @@
 
 Please do not report security vulnerabilities through public GitHub issues.
 
-For security-sensitive reports, contact the repository maintainers or DataSys organization owners through the security contact listed in the relevant project repository. Include:
+For security-sensitive reports, first use the private security contact listed
+in the relevant project repository. If the repository does not publish one,
+email the DataSys organization owners at
+[shuhao_zhang@hust.edu.cn](mailto:shuhao_zhang@hust.edu.cn). Include:
 
 - The affected repository and version or commit.
 - A clear description of the issue.
