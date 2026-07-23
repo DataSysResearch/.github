@@ -22,7 +22,7 @@ Website: [datasys.sage.org.ai](https://datasys.sage.org.ai/)
 
 ### Achievements
 
-- [BriskSnapshot](https://datasys.sage.org.ai/achievements.html) - accepted ICPP 2026 demonstration of join-backed semantic windows for streaming AI pipelines.
+- [BriskSnapshot](https://datasys.sage.org.ai/achievements.html) - join-backed semantic windows demonstration reported by its authors as accepted to the ICPP 2026 demo track; the public conference record is pending.
 
 ### Dynamic Graphs
 
