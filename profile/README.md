@@ -26,6 +26,7 @@ Website: [datasys.sage.org.ai](https://datasys.sage.org.ai/)
 ### Vector Search and ANNS
 
 - [CANDOR-Bench](https://github.com/DataSysResearch/CANDOR-Bench) - continuous ANNS evaluation under dynamic, open-world streams.
+- [vasg](https://github.com/DataSysResearch/vasg) - DataSys-maintained VSAG derivative used by CANDOR-Bench for reproducible vector-index evaluation.
 
 ### Streaming Data Analysis
 
