@@ -22,6 +22,15 @@ Website: [datasys.sage.org.ai](https://datasys.sage.org.ai/)
 
 ### Achievements
 
+- [Complete publication timeline](https://datasys.sage.org.ai/achievements.html) -
+  papers, demos, authors, DOI records, official acceptance evidence, and
+  corresponding DataSys repositories.
+- [CANDOR-Bench](https://doi.org/10.1145/3786630) - SIGMOD 2026 continuous
+  ANNS benchmark for dynamic open-world streams.
+- [StreamFP](https://doi.org/10.1145/3774904.3792584) - WWW 2026
+  fingerprint-guided data selection for efficient stream learning.
+- [GRACE](https://icde2026.github.io/accepted-papers.html) - accepted ICDE
+  2026 work on reconstruction cost in dynamic graph processing.
 - [BriskSnapshot](https://datasys.sage.org.ai/achievements.html) - join-backed semantic windows demonstration reported by its authors as accepted to the ICPP 2026 demo track; the public conference record is pending.
 
 ### Dynamic Graphs
