@@ -10,8 +10,8 @@ Website: [datasys.sage.org.ai](https://datasys.sage.org.ai/)
 
 - [IntelliStream](https://github.com/intellistream) incubates early research ideas.
 - **DataSys** develops framework-neutral data systems and benchmarks.
-- [SAGE](https://github.com/SAGE-Research) uses these capabilities in agent, RAG, workflow, and service orchestration.
-- [vLLM-HUST](https://github.com/vllm-hust) develops model execution, scheduling, and hardware acceleration.
+- [RIDE Lab](https://github.com/RIDE-Lab) conducts agent-native systems research. Its flagship product [SAGE](https://github.com/RIDE-Lab/SAGE) uses DataSys capabilities for agent, RAG, workflow, and service orchestration; [Sage Mate](https://github.com/RIDE-Lab/sage-mate) is an application built with SAGE.
+- [vLLM-HUST](https://github.com/vLLM-HUST) is the independent inference substrate for model execution, scheduling, compilation, kernels, and hardware acceleration. RIDE Lab systems call it rather than owning it as an internal layer.
 
 ## Projects
 
