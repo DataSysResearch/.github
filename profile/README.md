@@ -71,10 +71,10 @@ Website: [datasys.sage.org.ai](https://datasys.sage.org.ai/)
 
 ## Evolving-Data Research Portfolio
 
-DataSys is the research home for seven portfolio lines spanning semantic and
-graph processing, dynamic indexes, temporal retrieval, and reproducible
-data-system evaluation: Semantic-MR, Wiki-Link Retrieval, NewGammaFresh,
-TA-RAG, Temporal RAG, GRACE, and BriskSeed.
+DataSys is the research home for eight portfolio lines spanning semantic and
+graph processing, workspace consistency, dynamic indexes, temporal retrieval,
+and reproducible data-system evaluation: Semantic-MR, Wiki-Link Retrieval,
+Tenet, NewGammaFresh, TA-RAG, Temporal RAG, GRACE, and BriskSeed.
 
 The current project links, release stages, technical roles, and graduation
 boundaries are maintained in the website's
