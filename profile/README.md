@@ -69,6 +69,20 @@ Website: [datasys.sage.org.ai](https://datasys.sage.org.ai/)
 - [StreamProcessing Reading List](https://github.com/DataSysResearch/StreamProcessing_ReadingList)
 - [Parallel and Distributed State Management Survey](https://github.com/DataSysResearch/parallel-distributed-state-management-survey)
 
+## Evolving-Data Research Portfolio
+
+DataSys is the research home for seven portfolio lines spanning semantic and
+graph processing, dynamic indexes, temporal retrieval, and reproducible
+data-system evaluation: Semantic-MR, Wiki-Link Retrieval, NewGammaFresh,
+TA-RAG, Temporal RAG, GRACE, and BriskSeed.
+
+The current project links, release stages, technical roles, and graduation
+boundaries are maintained in the website's
+[versioned research manifest](https://github.com/DataSysResearch/DataSysResearch.github.io/blob/main/data/research-portfolio.json)
+and rendered on the [DataSys homepage](https://datasys.sage.org.ai/#research-portfolio).
+This is the single public source of truth; a project listed in incubation is
+not represented as already transferred to DataSys.
+
 ### ANNS Baseline Forks
 
 These repositories preserve upstream algorithms and benchmark baselines used in DataSys evaluation. DataSys ownership does not replace or imply authorship of the upstream projects.
